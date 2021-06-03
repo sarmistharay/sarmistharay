@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @sarmistharay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-Hi, I am Sarmistha Ray
-I am currently learning Data Analytics 
+- 👋 Hi, I’m Sarmistha Ray
+- 👀 I’m interested in Data Analytics, QA Automation Testing
+- 🌱 I’m currently learning Python, R and Tableau
+
 <!---
 sarmistharay/sarmistharay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
